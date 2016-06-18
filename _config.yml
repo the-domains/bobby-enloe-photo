@@ -1,29 +1,18 @@
-name: Bobby EnLoe PhotoGraphy
-favicon: null
-layout_spectrum: 0.9919864609837532
-typography_spectrum: 0.3979644470382482
-title: Bobby EnLoe PhotoGraphy
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#D3DBDE'
+    - '#313D49'
+    - '#655D52'
+    - '#090E12'
+    - '#96A1A7'
   brandStrength: 0.2973261692095548
   lightness: 0.7441024342551827
-  saturation: 0.11191969458013773
   rhythmicContrast: 0.9052167716436088
+  saturation: 0.11191969458013773
+cta: {}
+layout_spectrum: 0.9919864609837532
+name: Bobby EnLoe PhotoGraphy
+opengraph: {}
 purpose: []
+typography_spectrum: 0.3979644470382482
